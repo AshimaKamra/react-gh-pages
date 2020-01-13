@@ -1,0 +1,17 @@
+.navbar #logo-image
+{
+    width:150px;
+    height:50px;
+}
+.navbar .top-nav
+{
+background: transparent;
+border: none;
+border-radius: 0px;
+border-spacing: 1.5px;
+}
+.navbar .Search-group #search-button
+ {
+     border-radius: 5px;
+
+ }

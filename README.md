@@ -1,3 +1,5 @@
+A Front-end fandom website. Has searching and labelling functionality. Ability to sort locations, Characters and Episodes. The Database called from an API through AJAX. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
